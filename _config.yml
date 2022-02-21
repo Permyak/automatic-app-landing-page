@@ -1,5 +1,5 @@
 #page title
-page_title                                : YADA                                      # Automatically populates with app name if not set and if iOS app ID is set. Otherwise enter manually.
+page_title                                : Yada                                      # Automatically populates with app name if not set and if iOS app ID is set. Otherwise enter manually.
 
 # App Info
 ios_app_id                                : 1601131802                                # Required. Enter iOS app ID to automatically populate name, price and icons (e.g. 718043190).
@@ -23,7 +23,7 @@ enable_smart_app_banner                   : true                                
 your_name                                 : Koteam                               
 your_link                                 :                    
 your_city                                 :                                 
-email_address                             : welcome@yada.team
+email_address                             : hello@yada.team
 facebook_username                         :                                           
 instagram_username                        : 
 twitter_username                          : 
@@ -39,12 +39,12 @@ features                                  :
     description                           : This is a free dictionary with over 1,000,000 words with pronunciation, grammar examples, synonyms, and antonyms
     fontawesome_icon_name                 : magic
     
-  - title                                 : Vocabulary flashcards
-    description                           : You are able to add new words to your personal favorite vocabulary flash cards and memorize them.
+  - title                                 : Vocabulary Flashcards
+    description                           : You are able to add new words to your personal favorite vocabulary flash cards and memorize them
     fontawesome_icon_name                 : star
 
   - title                                 : Trainer
-    description                           : Flashcards trainer that applies scientific learning methods to existing daily habits make mastering languages easier, more entertaining, and effective
+    description                           : Flashcards trainer applies scientific learning methods to existing daily habits and makes mastering languages easier, more entertaining, and effective
     fontawesome_icon_name                 : sync
 
 
